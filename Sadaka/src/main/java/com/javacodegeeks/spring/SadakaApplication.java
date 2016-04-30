@@ -5,8 +5,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SadakaApplication {   
+	
+	private SadakaApplication(){
+		
+	}
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(SadakaApplication.class, args);
 	}
 }
