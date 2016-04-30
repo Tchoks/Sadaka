@@ -11,7 +11,7 @@ public interface ParameterService {
 	
 	Parameter createParameter(Parameter parameter) throws BusinessException;
 	
-	Parameter updateParameter(String date,String parameter) throws BusinessException;
+	Parameter updateParameter(Parameter parameter) throws BusinessException;
 	
 	void deleteParameter(String date,String parameter) throws BusinessException;
 	

@@ -1,0 +1,26 @@
+[ {
+  "date" : "2015-01-21",
+  "comment" : "Permettre l'acquisition ou la migration VDSL pour les PRO pour le canal CN2",
+  "param" : "securityConfig.DroitAcquisitionVdslPro.channels",
+  "value" : "+CN2"
+}, {
+  "date" : "2015-02-05",
+  "comment" : "Mise à jour des listes de segments Commerciaux",
+  "param" : "open.adsl.marketSegments",
+  "value" : "F25OA,F26OA,F27OA,S22AA,S23AA,S24AA"
+}, {
+  "date" : "2015-02-05",
+  "comment" : "Mise à jour des listes de segments Commerciaux",
+  "param" : "open.fiber.marketSegments",
+  "value" : "F25OF,F26OF,F27OF,S23AF,S24AF,S25AF"
+},{
+  "date" : "2015-07-09",
+  "comment" : "Rajouter le droit DLIS au canal DEF",
+  "param" : "securityConfig.DroitAccesDLIS.channels",
+  "value" : "BFT,TEL,FID,POD,700,CTC,CRE,CBO,OCA,ORM,OFP,MPP,SCC,ATH,DOM,PAP,CN2,PAE,FIP,TEP,DVI,BOP,B2P,DEF"
+},{
+  "date" : "2015-01-21",
+  "comment" : "zdaazazdzadzad",
+  "param" : "dzadzadza",
+  "value" : "dazdazdazdadz"
+} ]
