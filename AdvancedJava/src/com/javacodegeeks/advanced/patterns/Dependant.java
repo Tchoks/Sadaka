@@ -1,4 +1,4 @@
-package com.javacodegeeks.advanced.construction.patterns;
+package com.javacodegeeks.advanced.patterns;
 
 import java.text.DateFormat;
 import java.util.Date;
